@@ -1,2 +1,17 @@
-# Meals
-This is a meal planning app built using Flutter. Users can view meals under various categories (Italian, quick &amp; easy, breakfast, etc.). Users can also filter meals based on dietary restrictions (gluten-free, lactose-free, vegetarian, vegan). Clicking on a meal item will show the meal's description, and details, such as affordability (affordable, expensive, or luxurious), complexity (simple, hard, or challenging), estimated duration, the ingredients needed to prepare the dish, and the preparation steps.
+# meals
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
