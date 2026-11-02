@@ -1,0 +1,2 @@
+# Meals App
+This is a meal planning app built using Flutter. Users can view meals under various categories (Italian, quick & easy, breakfast, etc.). Users can also filter dishes based on dietary restrictions (gluten-free, lactose-free, vegetarian, vegan). Clicking on a dish will show a description, including details such as affordability (affordable, expensive, luxurious), level of complexity (simple, hard, challenging), ingredients needed to prepare the dish, and preparation steps.
